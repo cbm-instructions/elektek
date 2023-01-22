@@ -1,0 +1,85 @@
+#include <Adafruit_NeoPixel.h>
+#ifdef __AVR__
+ #include <avr/power.h> 
+#endif
+
+// Which pin on the Arduino is connected to the NeoPixels?
+#define PIN_CALORIES 0
+#define Pin_mV 1
+
+// How many NeoPixels are attached to the Arduino?
+#define NUMPIXELS 24
+
+int analogPin = A0; // Pin, which should be read
+int analogPin = A1;
+int mV = 0;
+int lamps_mV = 0;  //how many pixels should be on
+int caloriesAtTheMoment = 0;
+int AllCalories = 0;
+int lampsCalories = 0; //how many pixels should be on
+
+Adafruit_NeoPixel pixels_mV(NUMPIXELS, PIN_mV, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel pixelsCalories(NUMPIXELS, PIN_CALORIES, NEO_GRB + NEO_KHZ800);
+
+#define DELAYVAL 1 // Time (in milliseconds) to pause between pixels
+
+void setup(){
+  
+  #if defined(__AVR_ATtiny85__) && (F_CPU == 16000000)
+  clock_prescale_set(clock_div_1);
+  #endif
+
+  Serial.begin(9600); // Setup der seriellen Verbindung
+  
+  pixels.begin(); // INITIALIZE NeoPixel strip object (REQUIRED)
+  
+}
+
+void loop(){
+
+  pixels_mV.clear(); //set all pixels colors to off from mV ring
+  pixels_mV.show();  //Send the updated pixel colors to the hardware from mV ring
+  pixelsCalories.clear(); //all pixels off from calories ring
+  pixelsCalories.show();  //Send the updated pixel colors to the hardware from calories ring
+
+  while(true){
+    delay(DELAYVAL); // Pause before next pass through loop
+    pixels_mV.clear();
+
+
+    //----------control calories----------
+    caloriesAtTheMoment = analogRead(analogPin)/1000; // read calorie values
+    allCalories = caloriesAtTheMoment + allCalories;  //save all values combined
+    
+    if(caloriesAtTheMoment != 0){ 
+      lampsCalories = allCalories / 700;
+       
+      for(int i=0; i<lampsCalories; i++){
+        // pixels.Color() takes RGB values, from 0,0,0 up to 255,255,255
+        pixels.setPixelColor(i, pixels.Color(50, 50, 0));  //yellow
+        pixels.show();   // Send the updated pixel colors to the hardware.
+      }
+    }
+
+
+    //----------control mV----------
+    mV = analogRead(analogPin); //read mV values
+    
+    if((mV != 0) && mV > 20){
+      lamps_mV = mV / 42,673; 
+
+      for(int i=0; i<=lamps_mV; i++){
+        // pixels.Color() takes RGB values, from 0,0,0 up to 255,255,255
+        //pixels.setPixelColor(i, pixels.Color(0, 100, 0));  //green
+        pixels_mV.setPixelColor(i, pixels_mV.Color(50, 0, 0));  //red
+        pixels_mV.show();  
+        }
+      }
+      if(mV < 20){
+        pixels_mV.clear();
+        pixels_mV.setPixelColor(0,pixels.Color(0,0,0));
+        pixels_mV.show();
+      }
+    
+  }
+}
