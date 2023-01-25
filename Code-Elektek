@@ -4,22 +4,28 @@
 #endif
 
 // Which pin on the Arduino is connected to the NeoPixels?
-#define PIN_CALORIES 0
-#define Pin_mV 1
+#define PIN_CALORIES 3
+#define PIN_mV 4
+#define PIN_gCO2 5
 
 // How many NeoPixels are attached to the Arduino?
-#define NUMPIXELS 24
+#define mVNUMPIXELS 24
+#define CaloriesNUMPIXELS 16
+#define gCO2NUMPIXELS 12
 
-int analogPin = A0; // Pin, which should be read
-int analogPin = A1;
+
+int eingangsWert = A0; //Pin which should be read
 int mV = 0;
 int lamps_mV = 0;  //how many pixels should be on
 int caloriesAtTheMoment = 0;
-int AllCalories = 0;
+int allCalories = 0;  //how many pixels should be on
 int lampsCalories = 0; //how many pixels should be on
+int gCO2 = 0;
+int lampsgCO2 = 0;
 
-Adafruit_NeoPixel pixels_mV(NUMPIXELS, PIN_mV, NEO_GRB + NEO_KHZ800);
-Adafruit_NeoPixel pixelsCalories(NUMPIXELS, PIN_CALORIES, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel pixels_mV(mVNUMPIXELS, PIN_mV, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel pixelsCalories(CaloriesNUMPIXELS, PIN_CALORIES, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel pixelsgCO2(gCO2NUMPIXELS, PIN_gCO2, NEO_GRB + NEO_KHZ800);
 
 #define DELAYVAL 1 // Time (in milliseconds) to pause between pixels
 
@@ -31,7 +37,12 @@ void setup(){
 
   Serial.begin(9600); // Setup der seriellen Verbindung
   
-  pixels.begin(); // INITIALIZE NeoPixel strip object (REQUIRED)
+  pixels_mV.begin(); // INITIALIZE NeoPixel strip object (REQUIRED)
+  pixelsCalories.begin();
+  pixelsgCO2.begin();
+  pixelsCalories.clear();
+  pixelsCalories.show();
+  
   
 }
 
@@ -39,8 +50,6 @@ void loop(){
 
   pixels_mV.clear(); //set all pixels colors to off from mV ring
   pixels_mV.show();  //Send the updated pixel colors to the hardware from mV ring
-  pixelsCalories.clear(); //all pixels off from calories ring
-  pixelsCalories.show();  //Send the updated pixel colors to the hardware from calories ring
 
   while(true){
     delay(DELAYVAL); // Pause before next pass through loop
@@ -48,22 +57,23 @@ void loop(){
 
 
     //----------control calories----------
-    caloriesAtTheMoment = analogRead(analogPin)/1000; // read calorie values
+    caloriesAtTheMoment = analogRead(eingangsWert)/500; // read calorie values
     allCalories = caloriesAtTheMoment + allCalories;  //save all values combined
-    
     if(caloriesAtTheMoment != 0){ 
       lampsCalories = allCalories / 700;
+
+     Serial.println(lampsCalories);
        
       for(int i=0; i<lampsCalories; i++){
         // pixels.Color() takes RGB values, from 0,0,0 up to 255,255,255
-        pixels.setPixelColor(i, pixels.Color(50, 50, 0));  //yellow
-        pixels.show();   // Send the updated pixel colors to the hardware.
+        pixelsCalories.setPixelColor(i, pixelsCalories.Color(50, 50, 0));  //yellow
+        pixelsCalories.show();   // Send the updated pixel colors to the hardware.
       }
     }
 
 
     //----------control mV----------
-    mV = analogRead(analogPin); //read mV values
+    mV = analogRead(eingangsWert); //read mV values
     
     if((mV != 0) && mV > 20){
       lamps_mV = mV / 42,673; 
@@ -77,8 +87,19 @@ void loop(){
       }
       if(mV < 20){
         pixels_mV.clear();
-        pixels_mV.setPixelColor(0,pixels.Color(0,0,0));
         pixels_mV.show();
+      }
+
+
+    //----------control g/CO2----------
+    gCO2 = analogRead(eingangsWert) / 500; //read mV values
+    lampsgCO2 = gCO2;
+    Serial.println(lampsgCO2);
+
+    for(int i=0; i<=lampsgCO2; i++){
+      // pixels.Color() takes RGB values, from 0,0,0 up to 255,255,255
+      pixelsgCO2.setPixelColor(i, pixelsgCO2.Color(0, 100, 0));  //green
+      pixelsgCO2.show();  
       }
     
   }
