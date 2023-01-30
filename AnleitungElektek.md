@@ -15,3 +15,41 @@ Durch den natürlichen Lebensraum, in dem sich Informatiker normalerweise befind
 ## Interviews 
 
 Unsere Gruppe führte nun also Interviews um die Aufgabe besser zu verstehen, wir fragten Leute an der Hochschule und in der Innenstadt. Hierzu nutzten wir den Fragenkatalog (FragenkatalogElektek.md). 
+
+### Das Problem 
+
+Wie können wir Ash helfen, Stromgenerierung besser zu verstehen? Er kennt nicht die Werte, weiß nicht wie schwer es ist Strom zu generieren. Hat kaum Geld, muss also sparsam sein.
+
+## Persona die sich ergab
+
+- Ash, 25 Jahre alt
+- Student, sitzt viel am Schreibtisch
+- Interessiert an Umweltschutz 
+- Aber wie? Weiß nichts über 
+  Stromgenerierung und -sparen
+
+## Unsere Lösung "Elektek"
+
+- Möglichkeit, selbstständig Strom zu generieren!
+- Bringt Messwerte bei 
+- Stellt Aufwand für die Menge an Strom dar 
+- Lösung ist angepasst an Ash 
+
+### Funktionen von Elektek
+
+- Elektek unter den Schreibtisch aufstellen und wippen
+- Strom nutzbar zum Laden einer PowerBank/Handy
+- 3 LED-Ringe stellen Volt, verbrannte Kalorien und 
+ eingesparten CO2 dar
+- Anzeigen einfach individuell aus und einschalten  
+
+# Bauanleitung 
+
+Die Bauanleitung ist hier. 
+
+# Feedback und Ideen für die Zukunft
+
+- Neue Anzeigen und Berechnungen ermöglichen
+- Möglichkeit die Größe zu verstellen und Höhe niedriger gestalten
+- Quietschen beheben, da wir hier das Problem von Holz auf Metall hatten. Kugellager oder Metall auf Metall wäre eine gute Verbesserung.
+
