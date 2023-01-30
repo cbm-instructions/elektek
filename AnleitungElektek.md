@@ -51,9 +51,9 @@ Die Bauanleitung ist unter BauanleitungElektek.md zu finden.
 
 # Code
 
-Um den Code auf den Arduino Uno zu booten bietet sich die IDE von Arduino (https://www.arduino.cc/en/software) an, wir haben diese auch selbst genutzt um den Code zu schreiben. 
+Um den Code auf den Arduino Uno zu booten bietet sich die [IDE von Arduino](https://www.arduino.cc/en/software) an, wir haben diese auch selbst genutzt um den Code zu schreiben. 
 
-Der Code ist unter https://github.com/cbm-instructions/elektek/blob/7d9f2138d3452ed080a5575188d4c08286fd82fb/Code-Elektek zu finden.
+Der Code ist [hier](https://github.com/cbm-instructions/elektek/blob/7d9f2138d3452ed080a5575188d4c08286fd82fb/Code-Elektek) zu finden.
 
 # Feedback und Ideen für die Zukunft
 
