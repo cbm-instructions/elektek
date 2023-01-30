@@ -14,7 +14,7 @@ Durch den natürlichen Lebensraum, in dem sich Informatiker normalerweise befind
 
 ## Interviews 
 
-Unsere Gruppe führte nun also Interviews um die Aufgabe besser zu verstehen, wir fragten Leute an der Hochschule und in der Innenstadt. Hierzu nutzten wir den Fragenkatalog (FragenkatalogElektek.md). 
+Unsere Gruppe führte nun also Interviews um die Aufgabe besser zu verstehen, wir fragten Leute an der Hochschule und in der Innenstadt. Hierzu nutzten wir den [Fragenkatalog] (https://github.com/cbm-instructions/elektek/blob/8b6c6224bb2a2fc743f98bf25172724d942ed000/FragenkatalogElektek.md). 
 
 ### Das Problem 
 
