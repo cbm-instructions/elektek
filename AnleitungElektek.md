@@ -18,7 +18,7 @@ Unsere Gruppe führte nun also Interviews um die Aufgabe besser zu verstehen, wi
 
 ### Das Problem 
 
-Wie können wir Ash helfen, Stromgenerierung besser zu verstehen? Er kennt nicht die Werte, weiß nicht wie schwer es ist Strom zu generieren. Hat kaum Geld, muss also sparsam sein.
+Wie können wir Ash helfen, Stromerzeugung besser zu verstehen? Er kennt die Werte nicht genau und weiß nicht wie schwer es ist Strom zu generieren. Er hat außerdem kaum Geld, es muss also sparsam sein. Ash nutzt auf einer täglichen Basis sein Handy, ein Gerät das eigentlich wenig Strom verbraucht. Wie können wir ihm die Thematik von Verbrauch und Nachhaltigkeit nun also näherbringen? Vorallem in Betracht dessen, dass er seinen Strom nicht selber zahlt/ einen festen Preis zahlt, egal wieviel er verbraucht.
 
 ## Persona die sich ergab
 
@@ -27,6 +27,8 @@ Wie können wir Ash helfen, Stromgenerierung besser zu verstehen? Er kennt nicht
 - Interessiert an Umweltschutz 
 - Aber wie? Weiß nichts über 
   Stromgenerierung und -sparen
+- Arbeitet im Homeoffice für seinen Studentenjob
+- Lernt am Schreibtisch und verbringt auch seine Freizeit oft vor dem PC
 
 ## Unsere Lösung "Elektek"
 
@@ -47,6 +49,12 @@ Wie können wir Ash helfen, Stromgenerierung besser zu verstehen? Er kennt nicht
 
 Die Bauanleitung ist unter BauanleitungElektek.md zu finden. 
 
+# Code
+
+Um den Code auf den Arduino Uno zu booten bietet sich die IDE von Arduino (https://www.arduino.cc/en/software) an, wir haben diese auch selbst genutzt um den Code zu schreiben. 
+
+Der Code ist unter https://github.com/cbm-instructions/elektek/blob/7d9f2138d3452ed080a5575188d4c08286fd82fb/Code-Elektek zu finden.
+
 # Feedback und Ideen für die Zukunft
 
 - Neue Anzeigen und Berechnungen ermöglichen
@@ -55,6 +63,6 @@ Die Bauanleitung ist unter BauanleitungElektek.md zu finden.
 
 # Das Team 
 
-Philip Steinlein, 
-Nico Ohler & 
-Muhammed Yavuz
+- Philip Steinlein
+- Nico Ohler
+- Muhammed Yavuz
