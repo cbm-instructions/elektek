@@ -53,3 +53,8 @@ Die Bauanleitung ist unter BauanleitungElektek.md zu finden.
 - Möglichkeit die Größe zu verstellen und Höhe niedriger gestalten
 - Quietschen beheben, da wir hier das Problem von Holz auf Metall hatten. Kugellager oder Metall auf Metall wäre eine gute Verbesserung.
 
+# Das Team 
+
+Philip Steinlein
+Nico Ohler
+Muhammed Yavuz
