@@ -10,3 +10,8 @@ Durch den natürlichen Lebensraum, in dem sich Informatiker normalerweise befind
 
 # Aufgabenstellung/ Herausforderung
 
+"Wie können wir mit intelligenten Objekten dazu beitragen, dass Menschen über Ihren Energieverbrauch Bescheid wissen und aktiv Energie sparen?"
+
+## Interviews 
+
+Unsere Gruppe führte nun also Interviews um die Aufgabe besser zu verstehen, wir fragten Leute an der Hochschule und in der Innenstadt. Hierzu nutzten wir den Fragenkatalog (FragenkatalogElektek.md). 
