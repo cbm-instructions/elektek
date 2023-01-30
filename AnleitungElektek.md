@@ -55,6 +55,6 @@ Die Bauanleitung ist unter BauanleitungElektek.md zu finden.
 
 # Das Team 
 
-Philip Steinlein
-Nico Ohler
+Philip Steinlein, 
+Nico Ohler & 
 Muhammed Yavuz
