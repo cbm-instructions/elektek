@@ -45,7 +45,7 @@ Wie können wir Ash helfen, Stromgenerierung besser zu verstehen? Er kennt nicht
 
 # Bauanleitung 
 
-Die Bauanleitung ist hier. 
+Die Bauanleitung ist unter BauanleitungElektek.md zu finden. 
 
 # Feedback und Ideen für die Zukunft
 
