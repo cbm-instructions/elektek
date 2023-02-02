@@ -47,7 +47,7 @@ Wie können wir Ash helfen, Stromerzeugung besser zu verstehen? Er kennt die Wer
 
 # Bauanleitung 
 
-Die Bauanleitung ist unter BauanleitungElektek.md zu finden. 
+Die Bauanleitung ist unter [BauanleitungElektek.md](https://github.com/cbm-instructions/elektek/blob/d59d09e348b974fc2cefa9ebf16d118cbb05f212/Bauanleitung.md) zu finden. 
 
 # Code
 
