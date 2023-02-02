@@ -1,50 +1,51 @@
 ### Material:
-Arduino Uno
-Gleichstrommotor (150 mm x 235 mm, unserer ist aus einem alten Laufband)
-Spannungsregler
-2-mal Kondensator
-NeoPixel Ring 24 LED
-NeoPixel Ring 16 LED
-NeoPixel Ring 12 LED
-4-mal Kippschalter
-Schwungrad aus Metall (Durchmesser= 170)
-A	2-mal Holz (500x150x20)   	 /Pedale
-B	2-mal Holz (20x500x130)    	 /Gestell für die Pedale
-C	5-mal Holz (50x200x20)  	  /Holzklötzchen zur Befestigung der 2 Pedalen
-D	2-mal Holz (510x20x20)  	  /Untere Befestigung der Gestelle
-E	1-mal Holz (510x20x50)  	  /Obere Befestigung der Gestelle
-F	Holz (600x800x30)      	  	  /Bodenplatte
-G	Holz (175x175x5)      		  /Holzplatte zur Befestigung des Schwungrades
-H	Holz (140x140x20)      		  /Holzplatte zur Befestigung der Flachstange
-I	Holz (20x540x40)      		  /Querträger des Motors
-J	Holz (130x130x10)    		 /Unterlage des Motors
-K	Holz (30x500x30)       		 /Bein des Motors
-L	2-mal Holz (30x180x30)	 	 /stützen des Motorbeins
-M	Holz (90x90x20)     		 /Bodenplatte der Stützbeine
-N	Holz (40x590x40)     		 /Hintere Stütze des Motors
-O	Flachstange (20x500x5)  	 /Flachstange zur Bewegungsübertragung
-P	10-mal 90° Winkelverbinder (30x60)
-Q	2-mal 180° Aluminium Winkel (90 lang)
-R	Holzplatte (170x270x2)		/Vorderseite der Box
-S	2-mal Holz (85x300x2)			/seite der Box
-T	Holz(170x270x2)		/Boden der Box
+- Arduino Uno
+- Gleichstrommotor (150 mm x 235 mm, unserer ist aus einem alten Laufband)
+- Spannungsregler
+- 2-mal Kondensator
+- NeoPixel Ring 24 LED
+- NeoPixel Ring 16 LED
+- NeoPixel Ring 12 LED
+- 4-mal Kippschalter
+- Schwungrad aus Metall (Durchmesser= 170)
+- A	2-mal Holz (500x150x20)   	 /Pedale
+- B	2-mal Holz (20x500x130)    	 /Gestell für die Pedale
+- C	5-mal Holz (50x200x20)  	  /Holzklötzchen zur Befestigung der 2 Pedalen
+- D	2-mal Holz (510x20x20)  	  /Untere Befestigung der Gestelle
+- E	1-mal Holz (510x20x50)  	  /Obere Befestigung der Gestelle
+- F	Holz (600x800x30)      	  	  /Bodenplatte
+- G	Holz (175x175x5)      		  /Holzplatte zur Befestigung des Schwungrades
+- H	Holz (140x140x20)      		  /Holzplatte zur Befestigung der Flachstange
+- I	Holz (20x540x40)      		  /Querträger des Motors
+- J	Holz (130x130x10)    		 /Unterlage des Motors
+- K	Holz (30x500x30)       		 /Bein des Motors
+- L	2-mal Holz (30x180x30)	 	 /stützen des Motorbeins
+- M	Holz (90x90x20)     		 /Bodenplatte der Stützbeine
+- N	Holz (40x590x40)     		 /Hintere Stütze des Motors
+- O	Flachstange (20x500x5)  	 /Flachstange zur Bewegungsübertragung
+- P	10-mal 90° Winkelverbinder (30x60)
+- Q	2-mal 180° Aluminium Winkel (90 lang)
+- R	Holzplatte (170x270x2)		/Vorderseite der Box
+- S	2-mal Holz (85x300x2)			/seite der Box
+- T	Holz(170x270x2)		/Boden der Box
 
 
 ### Werkzeuge:
-Holz- und Laubsäge
-Lötkolben
-Heißklebepistole
-Holzleim
-Bohrschrauber / Bohrmaschine
-Stahlbohrer
-Metallsäge
-Schleifpapier
-Abisolierzange
+- Holz- und Laubsäge
+- Lötkolben
+- Heißklebepistole
+- Holzleim
+- Bohrschrauber / Bohrmaschine
+- Stahlbohrer
+- Metallsäge
+- Schleifpapier
+- Abisolierzange
+
 ### Vorkenntnisse
-Grundlegende handwerkliche Kenntnisse
-Löten
-C++
-Elektronik
+- Grundlegende handwerkliche Kenntnisse
+- Löten
+- C++ Grundkenntnisse
+- Elektronik
  
 ### Bauanleitung erste Schritte:
 
