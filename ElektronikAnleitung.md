@@ -2,14 +2,14 @@
 ![Elektronik](https://user-images.githubusercontent.com/65849767/216325939-515f0abe-9433-4203-af4c-b0fb4cb4a53c.png)
 
 ## Bestandteile:
--A1: Arduino Uno
--M1: Gleichstrommotor
--Z1: Spannungsregler
--K1, K2: Kondensator
--L2: NeoPixel Ring 24 LED
--L1: NeoPixel Ring 16 LED
--L3: NeoPixel Ring 12 LED
--S1, S2, S3, S4: Kippschalter
+- A1: Arduino Uno
+- M1: Gleichstrommotor
+- Z1: Spannungsregler
+- K1, K2: Kondensator
+- L2: NeoPixel Ring 24 LED
+- L1: NeoPixel Ring 16 LED
+- L3: NeoPixel Ring 12 LED
+- S1, S2, S3, S4: Kippschalter
 
 
 ## Funktion + Aufbau:
