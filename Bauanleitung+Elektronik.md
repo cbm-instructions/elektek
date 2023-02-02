@@ -94,7 +94,7 @@ Holzplatte F
 	Sie verbinden die Stütze mitsamt dem Pedal an die Bodenplatte. Sie legen dabei die Bodenplatte vertikal auf und verbinden die Stütze mit der Vorderseite zu Ihnen gerichtet an. Die Stütze kann dabei an die vordere Kante der Bodenplatte verbunden werden. Legen Sie die Stütze dabei mittig an. 25 mm an Holz sollte man auf beiden Seiten noch heraus zeigen. Verbinden Sie die Stütze mit 4 Winkelverbinder. Zur Bodenplatte. 
 
 ## Schritt 5: Motorbeschwerung bauen
-![5](https://user-images.githubusercontent.com/65849767/216325142-8689c0d0-0932-48af-b67e-7da00f07d9ad.png)
+![5](https://user-images.githubusercontent.com/65849767/216384484-1bf23017-953d-421a-9047-001ab331c994.png)
 
 Dieser Schritt ist optional.  In diesem Schritt bauen sie weitere Gewichte für die Balance des Motors.
 ### Benötigte Materialien für diesen Schritt:
@@ -125,7 +125,8 @@ Holzplatte H
 	Zuerst bauen Sie eine Holzplatte unter Ihren Motor. Sie verbinden diese mit Schrauben an den Boden Ihres Motors, um diesen leichter mit dem Bein des Motors zu verbinden. Den Motor mit der neuen Holzplatte verbinden Sie mit drei weiteren Winkelverbindern P an dem Holzbalken K. Dieser dient als Bein des Motors.    
    	
 ## Schritt 8: Bein am Boden befestigen
-![8](https://user-images.githubusercontent.com/65849767/216325228-d2d0c4e6-402f-4ed5-a5b1-8bdcf4966ff1.png)
+![8](https://user-images.githubusercontent.com/65849767/216384528-2a9daff3-97fe-4a33-8879-e901b60bcdce.png)
+
 
 In diesem Schritt bauen Sie weitere Stützbeine für den Motor an und verbinden diese an die Pendelstützen.
 ### Benötigte Materialien für diesen Schritt:
