@@ -51,6 +51,8 @@
 
 
 ## Schritt 1: Pedal zusammenbauen 
+![1](https://user-images.githubusercontent.com/65849767/216325056-4a043680-ec5c-4626-ae8b-3c264bca3cb1.png)
+
 In diesem Schritt bereiten Sie die Holzplatte vor, die als Ihr Pedal dient. Dieser Schritt ist optional, falls Sie eine Holzplatte mit den Größen 500x300x20 mm besitzen.
 ### Benötigte Materialien für diesen Schritt:
 2-mal Holz A
@@ -58,14 +60,17 @@ In diesem Schritt bereiten Sie die Holzplatte vor, die als Ihr Pedal dient. Dies
 Als Erstes werden wir unser Pedal bereitstellen. Zum Bauen unseres Pedals nutzen wir beide Holzplatten A und kleben beide seitwärts zusammen mit Holzkleber. Wir nutzen dabei Holzkleber, da dieser an den Ecken sauberer entfernt werden kann als Heißkleber. Um die Verbindung zu verstärken, bauen Sie nun 5 Holzklötze C an die Unterseite des Pedals. Diese Klötze sollen dabei als Verbindungsstellen zwischen den Platten dienen. Die beiden äußersten Klötze werden dabei horizontal angebunden. Die drei mittleren werden vertikal angelegt. Legen Sie die vertikalen Blöcke knapp unter der Kante der Platte. Sie verbinden dabei die Blöcke mit Schrauben. Wichtig dabei ist, dass die Schrauben länger als 20 mm sind, um die Klötze mit den Holzplatten zu verbinden. Schrauben Sie alle Blöcke an allen vier Ecken an die Platte. 
 
 
-
 ## Schritt 2: Flachstange anbauen
+![2](https://user-images.githubusercontent.com/65849767/216325079-96a10d7c-dcd0-4fe6-915f-ffecd01562f0.png)
+
 In diesem Schritt wird die Flachstange an das Pedal angebunden. 
 ### Benötigte Materialien für diesen Schritt:
 Flachstange O
 Um die Flachstange O an das Pedal zu verbinden, sollten Sie zuvor zwei kleine Löcher in die Stange O bohren, mit Hilfe eines Metallbohrers. Die Löcher sollten dabei groß genug sein, für eine kleine Schraube und an entgegengesetzten Enden der Stange platziert werden. Ein Ende der Flachstange wird nun mit einer Schraube an die linke Seite des Pedals verbunden. Die Schraube sollte dabei nicht fest sitzen. Sie sollte einige Millimeter an Platz übrig haben für die Stange, um sich noch bewegen zu können.
 
 ## Schritt 3: Gestell zusammenbauen
+![3](https://user-images.githubusercontent.com/65849767/216325094-38aa99ab-779b-4256-a6e7-c502cbdaf968.png)
+
 In diesem Schritt werden die Stützen der Wippe gebaut.
 # Benötigte Materialien für diesen Schritt:
 2-mal Holz B
@@ -80,13 +85,17 @@ Zum Schluss bauen Sie nun die Wippe ein. Dafür bohren sie ein kleines Loch zu d
 Seitenplatten bohren, wo die Wippe hinkommt. Wippe zwischen halten und zwei Sicherheits-Verbindungen dazwischen packen. Hinten oben und vorne unten. Diese mit Schrauben verbinden.
 
 ## Schritt 4: Gestell an Boden festigen
+![4](https://user-images.githubusercontent.com/65849767/216325115-180a927e-66d7-4c06-9186-9628de1a713b.png)
+
 In diesem Schritt wird die Stütze mit einem stabilen Holzboden verbunden.
 ### Benötigte Materialien für diesen Schritt:
 Holzplatte F
 4 Winkelverbinder P
 	Sie verbinden die Stütze mitsamt dem Pedal an die Bodenplatte. Sie legen dabei die Bodenplatte vertikal auf und verbinden die Stütze mit der Vorderseite zu Ihnen gerichtet an. Die Stütze kann dabei an die vordere Kante der Bodenplatte verbunden werden. Legen Sie die Stütze dabei mittig an. 25 mm an Holz sollte man auf beiden Seiten noch heraus zeigen. Verbinden Sie die Stütze mit 4 Winkelverbinder. Zur Bodenplatte. 
 
-## Schritt 5: Motorbeschwerung bauen ()
+## Schritt 5: Motorbeschwerung bauen
+![5](https://user-images.githubusercontent.com/65849767/216325142-8689c0d0-0932-48af-b67e-7da00f07d9ad.png)
+
 Dieser Schritt ist optional.  In diesem Schritt bauen sie weitere Gewichte für die Balance des Motors.
 ### Benötigte Materialien für diesen Schritt:
 Gleichstrommotor (150x235)
@@ -95,6 +104,8 @@ Schwungrad aus Metall (Durchmesser= 170)
         	Für das Gleichgewicht und eine bessere Energieumwandlung, lohnt es sich die Seiten des Motors zu erschweren, falls der Motor selbst nicht schon genug Masse besitzt. Für die Beschwerung kleben wir eine weitere Holzplatte G an unseren Motor mit Holzkleber. Die Holzplatte hat einen Durchmesser von der Länge unseres Motors. An dieser befestigen wir unsere Beschwerung mit Schrauben und Muttern. Die Beschwerung ist dabei frei wählbar und optional. 
 
 ## Schritt 6: Motor anpassen
+![6](https://user-images.githubusercontent.com/65849767/216325179-9c33b55a-de94-40e6-9484-dfc064ff0217.png)
+
 In diesem Schritt bauen sie eine Holzplatte an den Motor, die die Flachstange O mit dem Motor verbindet.
 ### Benötigte Materialien für diesen Schritt:
 Gleichstrommotor (150 mm x 235 mm)
@@ -102,6 +113,8 @@ Holzplatte H
         	Für die Verbindung zur Flachstange O kleben wir eine weitere Holzplatte H an die linke Seite unseres Motors mit Holzkleber. Die Holzplatte hat einen Durchmesser von der Länge unseres Motors.
 
 ## Schritt 7: Bein des Motors bauen
+![7](https://user-images.githubusercontent.com/65849767/216325201-169dd665-98ad-4b78-afa0-694dbb025af4.png)
+
 In diesem Schritt bauen Sie ein Bein für den Motor.
 ### Benötigte Materialien für diesen Schritt:
 Gleichstrommotor
@@ -112,6 +125,8 @@ Holzplatte H
 	Zuerst bauen Sie eine Holzplatte unter Ihren Motor. Sie verbinden diese mit Schrauben an den Boden Ihres Motors, um diesen leichter mit dem Bein des Motors zu verbinden. Den Motor mit der neuen Holzplatte verbinden Sie mit drei weiteren Winkelverbindern P an dem Holzbalken K. Dieser dient als Bein des Motors.    
    	
 ## Schritt 8: Bein am Boden befestigen
+![8](https://user-images.githubusercontent.com/65849767/216325228-d2d0c4e6-402f-4ed5-a5b1-8bdcf4966ff1.png)
+
 In diesem Schritt bauen Sie weitere Stützbeine für den Motor an und verbinden diese an die Pendelstützen.
 ### Benötigte Materialien für diesen Schritt:
 Zwei Holzstücke L
@@ -125,6 +140,8 @@ Das Bein wird auch an der Stütze der Wippe verbunden, für weitere Stabilität.
 Das Bein wird auch an der Stütze der Wippe verbunden, für weitere Stabilität.
 
 ## Schritt 9: Balkenstütze einbauen
+![9](https://user-images.githubusercontent.com/65849767/216325258-a31c7e71-f6f0-47f6-8968-cac35866c0ee.png)
+
 In diesem Schritt werden weitere Stützen für den Motor eingebaut. 
 ### Benötigte Materialien für diesen Schritt:
 Holzbalken I
@@ -133,10 +150,14 @@ Holzbalken N
 Als Nächstes wird der Holzbalken I an das Motorbein montiert. Den Balken sollten Sie leicht unterhalb des Balkons platzieren. Allerdings sollte das andere Ende des Balkens seitlich gelegt werden. Der Balken sollte mit dem Motorbein einen 45° Winkel darstellen. Den Balken I sollten Sie nun an den Boden mit Schrauben montieren. Des Weiteren sollten Sie den Holzbalken N ebenfalls an Ihrem Motor verbinden als weitere Stütze. Diese Stütze sollte seitlich zum Motorbalkon verbunden werden. Der Balken N sollte zur Rückseite des Pedals gerichtet werden und einen 45° Grad Winkel mit dem Motorbein darstellen. Dadurch haben Sie eine seitliche Stütze und eine Stütze für die hintere Seite des Motors
 
 ## Schritt 10: Verbindung der Flachstange
+![10](https://user-images.githubusercontent.com/65849767/216325322-a7a3364a-f896-4a7c-9b2e-1844d0b06c8c.png)
+
 In diesem Schritt wird der Motor mit der Flachstange verbunden.
 Sie sollten die lose Flachstange am Pedal an die Holzplatte des Motors anbinden. Das Ziel ist es, mit der Bewegung des Pedals den Motor mit zu rotieren, wodurch er Energie erzeugen kann. Achten Sie dabei auf den durch die Bewegung entstehenden Kreis der Flachstange. Bei einem größeren Durchmesser des Kreises ist eine volle Umdrehung des Motors mit einem Pedal schwerer, erzeugt aber durch die stärkere Schwingung mehr Strom. Sie verbinden die Flachstange mit einer losen Schraube, die Sie an die Holzplatte des Motors montieren, ähnlich wie beim Pedal.
 
 ## Schritt 11: Anzeigebox bauen 
+![11](https://user-images.githubusercontent.com/65849767/216325335-cc795bb3-8466-4a37-961f-e3a5cdde7d55.png)
+
 In diesem Schritt wird die Anzeigebox gebaut
 ### Benötigte Materialien für diesen Schritt:
 Holzplatte R
@@ -147,7 +168,7 @@ Legen Sie die Holzplatte R horizontal vor sich. Sie sollten die obere Kante der 
 Als Nächstes verbinden Sie die Seitenplatten S an die Anzeigebox. Zuvor sollten Sie aber eine rechteckige Öffnung an einer der Holzplatten einbauen. Durch diese wird später der USB-Anschluss durchgeführt. Die Maße sind dabei 4,5 × 12,0 mm. Die beiden Platten werden an die seitlichen Kanten der Anzeigebox angeklebt.
 
 ## Schritt 12:  Arduino verkabeln
-In diesem Schritt wird der Arduino programmiert. Wie man den Arduino programmiert und verkabelt, finden Sie hier.
+In diesem Schritt wird der Arduino programmiert. Wie man den Arduino programmiert und verkabelt, finden Sie in der Elektronik Anleitung.
 
 
 ## Schritt 13: Arduino einbauen
