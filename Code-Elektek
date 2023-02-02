@@ -35,7 +35,7 @@ void setup(){
   clock_prescale_set(clock_div_1);
   #endif
 
-  Serial.begin(9600); // Setup der seriellen Verbindung
+  Serial.begin(9600); // Serial Connection Setup
   
   pixels_mV.begin(); // INITIALIZE NeoPixel strip object (REQUIRED)
   pixelsCalories.begin();
